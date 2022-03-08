@@ -51,3 +51,16 @@
 
 ## 3. 샘플 쿼리
 
+### 3. 관계형 데이터베이스 실습 (1)
+
+Q. Customers 테이블의 모든 데이터 조회
+
+```markdown
+SELECT * FROM Customers;
+```
+
+Q. Customers 테이블에서 진짜 이름만 조회
+
+```markdown
+SELECT RealName FROM Customers;
+```
