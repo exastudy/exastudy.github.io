@@ -29,8 +29,22 @@
   - ID: 강의시간 배포
   - PW: 강의시간 배포
 
-### 1.4 Sample files
+## 2. 샘플 파일
+
+### 2.1 Sample files
 
 실습에 사용하는 샘플 파일입니다.
+
 - [Download](http://exastudy.cafe24.com/lectures/data_fundamentals/)
 
+### 2.2 통계청 자료
+
+통계청 - 온라인 수집가격 정보
+
+[통계데이터 센터](https://data.kostat.go.kr/sbchome/index.do)
+
+- 빅데이터활용 -> 온라인 수집가격 정보 -> 분석활용가격정보(2021년 12월)
+
+### 2.3 샘플 로그
+
+[Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=37003)
