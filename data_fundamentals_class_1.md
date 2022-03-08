@@ -23,10 +23,10 @@
 ### 1.3 Sample Database Sites
 
 - [Test Site 1](http://141.164.49.85/phpmyadmin/)
-  - ID: 강의시간 배포
+  - ID: user01 ~ user50
   - PW: 강의시간 배포
 - [Test Site 2](http://141.164.48.150/phpmyadmin/)
-  - ID: 강의시간 배포
+  - ID: user01 ~ user50
   - PW: 강의시간 배포
 
 ## 2. 샘플 파일
@@ -48,3 +48,6 @@
 ### 2.3 샘플 로그
 
 [Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=37003)
+
+## 3. 샘플 쿼리
+
