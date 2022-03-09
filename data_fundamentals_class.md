@@ -1,4 +1,4 @@
-# Data Fundamentals - Class (1)
+# Data Fundamentals - Class
 
 ## 1. 연관 사이트
 
@@ -53,7 +53,7 @@
 
 ### 3. 관계형 데이터베이스 실습 (1)
 
-Q. Customers 테이블의 모든 데이터 조회
+[1] Q. Customers 테이블의 모든 데이터 조회
 
 ```markdown
 SELECT * FROM Customers;
@@ -64,3 +64,10 @@ Q. Customers 테이블에서 진짜 이름만 조회
 ```markdown
 SELECT RealName FROM Customers;
 ```
+
+## 3. 샘플 쿼리와 답
+
+쿼리 질문에 해당하는 답과 같이 표시되는 페이지 입니다.
+결과를 확인하기 어려운 경우에만 참고해 주십시오.
+
+[Data Fundamentals Class Queries With Answers](data_fundamentals_class_queries_with_answers.html)
