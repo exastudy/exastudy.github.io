@@ -1,5 +1,6 @@
+# 3. 관계형 데이터베이스 실습
 
-## 3. 관계형 데이터베이스 실습 (1)
+## 3.1 관계형 데이터베이스 실습
 
 **[101] Q. Customers 테이블의 모든 데이터 조회**
 
@@ -176,7 +177,7 @@ UPDATE Orders SET OrderQuantity=50 WHERE OrderID=?
 DELETE FROM Orders WHERE OrderID=16
 ```
 
-## 3. 관계형 데이터베이스 실습 (2)
+## 3.2 관계형 데이터베이스 실습
 
 **[201] Q. 앞에서 10개?**
 
@@ -385,7 +386,7 @@ SELECT pum name, AVG((benefit * -1 * 100) / sales price) AS ave discount price
 FROM price GROUP BY pum name ORDER BY ave discount price DESC;
 ```
 
-## 3. 관계형 데이터베이스 실습 (3)
+## 3.3 관계형 데이터베이스 실습
 
 **[301] Q. "[TRACE]" 메시지만 표시**
 - 조건,함수: WHERE
