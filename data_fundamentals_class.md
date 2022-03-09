@@ -54,3 +54,7 @@
 [샘플 쿼리 문제 페이지](data_fundamentals_class_queries.html)
 
 쿼리를 직접 작성하시는 것을 추천하지만, 정답 확인이 필요한 경우에는 [Data Fundamentals Class Queries With Answers](data_fundamentals_class_queries_with_answers.html) 페이지를 참고해 주십시오.
+
+## 4. 설문조사
+
+[강의 만족도 조사](https://forms.gle/W1zvSBBJBZtU2vcF8)
