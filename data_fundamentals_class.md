@@ -36,6 +36,7 @@
 실습에 사용하는 샘플 파일입니다.
 
 - [Download](http://exastudy.cafe24.com/lectures/data_fundamentals/)
+- [320 파일 다운로드](http://naver.me/FgOZBFnE)
 
 ### 2.2 통계청 자료
 
